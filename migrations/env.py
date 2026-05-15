@@ -5,7 +5,7 @@ from sqlalchemy import pool
 
 from alembic import context
 
-load_dotenv()
+
 # --------------------- edite aqui -------------------
 from dotenv import load_dotenv
 import os
