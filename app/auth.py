@@ -77,3 +77,4 @@ def obter_usuario_logado(request: Request):
             detail="Token inválido ou expirado"
         )
     
+    
